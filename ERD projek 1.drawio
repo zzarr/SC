@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T16:18:41.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ka_NjMFc_xH3Im7f04Hp" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T17:09:54.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="cbhLxVvHJG5bj6fRWp4B" version="21.1.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1730" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -196,6 +196,15 @@
         </mxCell>
         <mxCell id="6rPEh_bnvKrcq9A52BbG-18" value="gambar desain" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="610" y="820" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0i90_Ah9qwGSS9QuldRk-4" value="jenis_sablon" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="620" y="280" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0i90_Ah9qwGSS9QuldRk-5" value="jumlah" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="650" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0i90_Ah9qwGSS9QuldRk-6" value="deslripsi_pesanan" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="700" y="220" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
